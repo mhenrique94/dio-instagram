@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## DESAFIO DIO - RECRIAR A INTERFACE DO INSTAGRAM
 
-You can use the [editor on GitHub](https://github.com/mhenrique94/dio-instagram/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### DESCRIÇÃO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nesse projeto você terá o desafio de reconstruir a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibiliza todo o material necessário em seu GitHub para que você possa realizar o seu projeto.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[VISITE A PÁGINA DO PROJETO](https://mhenrique94.github.io/dio-instagram/)
 
-```markdown
-Syntax highlighted code block
+![img](https://github.com/mhenrique94/dio-instagram/raw/main/img/print.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhenrique94/dio-instagram/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Visite também a página principal do meu perfil:](https://mhenrique94.github.io/)
