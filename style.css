@@ -132,12 +132,12 @@ body{
 }
 
 .appdownload:nth-child(1){
-    background-image: url(/img/playstore.png);
+    background-image: url(https://github.com/mhenrique94/dio-instagram/blob/main/img/playstore.png);
     
 }
 
 .appdownload:nth-child(2){
-    background-image: url(/img/appstore.png);
+    background-image: url(https://github.com/mhenrique94/dio-instagram/blob/main/img/appstore.png);
     
 }
 
