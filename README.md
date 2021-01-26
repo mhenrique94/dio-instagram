@@ -7,6 +7,6 @@ Nesse projeto você terá o desafio de reconstruir a página inicial de login do
 
 [VISITE A PÁGINA DO PROJETO](https://mhenrique94.github.io/dio-instagram/)
 
-![img](https://github.com/mhenrique94/dio-instagram/raw/main/img/print.jpg)
+![img](https://github.com/mhenrique94/dio-instagram/raw/main/img/print.JPG)
 
-[Visite também a página principal do meu perfil:](https://mhenrique94.github.io/)
+[Visite também a página principal do meu perfil.](https://mhenrique94.github.io/)
